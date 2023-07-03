@@ -1,0 +1,21 @@
+.login-form {
+    border: 1px solid blueviolet;
+    padding: 20px;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .login-form-title {
+    text-align: center;
+  }
+  
+  .login-form-inputs {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  
+  .login-form-inputs input {
+    margin-bottom: 10px;
+  }
+  
